@@ -1,0 +1,23 @@
+{
+  "name": "ponto-eletronico",
+  "version": "1.0.0",
+  "description": "Backend structure to project E-Ponto",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregPatriota/back-ponto.git"
+  },
+  "keywords": [
+    "ponto",
+    "isi"
+  ],
+  "author": "Gregório Patriota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregPatriota/back-ponto/issues"
+  },
+  "homepage": "https://github.com/GregPatriota/back-ponto#readme"
+}
