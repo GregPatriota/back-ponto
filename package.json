@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/GregPatriota/back-ponto/issues"
   },
-  "homepage": "https://github.com/GregPatriota/back-ponto#readme"
+  "homepage": "https://github.com/GregPatriota/back-ponto#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.3",
+    "@types/restify": "^8.4.0"
+  },
+  "dependencies": {
+    "restify": "^8.4.0"
+  }
 }
