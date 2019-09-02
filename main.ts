@@ -6,9 +6,7 @@ const server = restify.createServer({
 })
 
 server.get('/hello', (req, res, next) => {
-    res.json({
-        message: 'hello'
-    })
+    res.json({message: 'hello'})
     return next()
 })
 

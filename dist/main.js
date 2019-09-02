@@ -13,9 +13,7 @@ const server = restify.createServer({
     version: '0.1.0'
 });
 server.get('/hello', (req, res, next) => {
-    res.json({
-        message: 'hello'
-    });
+    res.json({ message: 'hello' });
     return next();
 });
 server.listen(3000, () => {
